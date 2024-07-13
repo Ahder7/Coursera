@@ -1,2 +1,2 @@
 # Coursera
-Getting Started with Git and GitHub Exercices
+Getting Started with Git and GitHub Courses'Exercices
